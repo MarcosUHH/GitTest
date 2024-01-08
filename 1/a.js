@@ -3,3 +3,4 @@ function SomeUp(){
 }
 
 console.log(SomeUp())
+console.log(SomeUp())
